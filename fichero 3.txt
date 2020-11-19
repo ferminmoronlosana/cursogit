@@ -1,1 +1,3 @@
-fichero 3 #fermin
+1 fichero 3 #fermin
+2 fichero 3 #fermin
+3 fichero 3 #fermin
